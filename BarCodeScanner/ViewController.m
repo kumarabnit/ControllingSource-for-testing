@@ -2,8 +2,8 @@
 //  ViewController.m
 //  BarCodeScanner
 //
-//  Created by reubro on 04/01/16.
-//  Copyright © 2016 reubro. All rights reserved.
+//  Created by Abnit on 04/01/16.
+//  Copyright © 2016 Abnit. All rights reserved.
 //
 
 #import "ViewController.h"

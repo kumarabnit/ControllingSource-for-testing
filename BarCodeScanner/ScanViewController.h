@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  ScanViewController.h
 //  BarCodeScanner
 //
 //  Created by Abnit on 04/01/16.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface ScanViewController : UIViewController
 
 @end
-
