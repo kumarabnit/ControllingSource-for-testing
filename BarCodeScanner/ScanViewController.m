@@ -28,6 +28,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view.
+    
+    // This View contoller has been changed and tested for pus to GitHub
 }
 
 
