@@ -17,6 +17,7 @@
 		4C749E931C3A458000B4B0B1 /* BarCodeScannerUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C749E921C3A458000B4B0B1 /* BarCodeScannerUITests.m */; };
 		4C749EA21C3A4D0300B4B0B1 /* ScanViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C749EA11C3A4D0300B4B0B1 /* ScanViewController.m */; settings = {ASSET_TAGS = (); }; };
 		4C749EA61C3A94A800B4B0B1 /* MTBBarcodeScanner.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C749EA51C3A94A800B4B0B1 /* MTBBarcodeScanner.m */; settings = {ASSET_TAGS = (); }; };
+		4C7CE73A1C4655C9001D8A3D /* MYNewFileTest.m in Sources */ = {isa = PBXBuildFile; fileRef = 4C7CE7391C4655C9001D8A3D /* MYNewFileTest.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,8 @@
 		4C749EA11C3A4D0300B4B0B1 /* ScanViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ScanViewController.m; sourceTree = "<group>"; };
 		4C749EA41C3A94A800B4B0B1 /* MTBBarcodeScanner.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MTBBarcodeScanner.h; sourceTree = "<group>"; };
 		4C749EA51C3A94A800B4B0B1 /* MTBBarcodeScanner.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MTBBarcodeScanner.m; sourceTree = "<group>"; };
+		4C7CE7381C4655C8001D8A3D /* MYNewFileTest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MYNewFileTest.h; sourceTree = "<group>"; };
+		4C7CE7391C4655C9001D8A3D /* MYNewFileTest.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MYNewFileTest.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +122,8 @@
 				4C749E7B1C3A457F00B4B0B1 /* LaunchScreen.storyboard */,
 				4C749E7E1C3A457F00B4B0B1 /* Info.plist */,
 				4C749E6D1C3A457F00B4B0B1 /* Supporting Files */,
+				4C7CE7381C4655C8001D8A3D /* MYNewFileTest.h */,
+				4C7CE7391C4655C9001D8A3D /* MYNewFileTest.m */,
 			);
 			path = BarCodeScanner;
 			sourceTree = "<group>";
@@ -292,6 +297,7 @@
 				4C749EA61C3A94A800B4B0B1 /* MTBBarcodeScanner.m in Sources */,
 				4C749E721C3A457F00B4B0B1 /* AppDelegate.m in Sources */,
 				4C749E6F1C3A457F00B4B0B1 /* main.m in Sources */,
+				4C7CE73A1C4655C9001D8A3D /* MYNewFileTest.m in Sources */,
 				4C749EA21C3A4D0300B4B0B1 /* ScanViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -520,6 +526,7 @@
 				4C749E991C3A458000B4B0B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C749E9A1C3A458000B4B0B1 /* Build configuration list for PBXNativeTarget "BarCodeScannerTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +535,7 @@
 				4C749E9C1C3A458000B4B0B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4C749E9D1C3A458000B4B0B1 /* Build configuration list for PBXNativeTarget "BarCodeScannerUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +544,7 @@
 				4C749E9F1C3A458000B4B0B1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
