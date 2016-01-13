@@ -29,7 +29,6 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     
-    // This View contoller has been changed and tested for pus to GitHub
 }
 
 
@@ -39,8 +38,6 @@
 - (void)viewDidAppear:(BOOL)animated {
     [super viewDidAppear:animated];
     
-   // UITapGestureRecognizer *tapGesture = [[UITapGestureRecognizer alloc] initWithTarget:self action:@selector(previewTapped)];
-   // [self.previewView addGestureRecognizer:tapGesture];
     
 }
 
