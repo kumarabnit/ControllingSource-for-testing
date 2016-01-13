@@ -9,5 +9,5 @@
 #import <Foundation/Foundation.h>
 
 @interface MYNewFileTest : NSObject
-
+-(void)fakeMethod;
 @end
