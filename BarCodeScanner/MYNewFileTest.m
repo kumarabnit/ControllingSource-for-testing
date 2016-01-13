@@ -13,6 +13,7 @@
 -(void)fakeMethod{
     // This is a fake method just to make the discard action clear for you
     
-    NSLog(@" Discarding changes allow you to get the latest revision you have worked on it.");
+    
+    NSLog(@"This Log is my ScoednC Commit Changes");
 }
 @end
